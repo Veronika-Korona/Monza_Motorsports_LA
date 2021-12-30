@@ -1,0 +1,15 @@
+.card {
+  &__description {
+    font-weight: 300;
+    font-size: 14px;
+    color: $color-secondary-200;
+    line-height: 19px;
+    margin-bottom: 26px;
+  }
+
+  &__price {
+    font-weight: 500;
+    line-height: 27px;
+    color: $color-primary-100;
+  }
+}

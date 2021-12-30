@@ -1,0 +1,12 @@
+.footer {
+  &--container {
+    height: 121px;
+    padding: 36px 104px 36px 80px;
+  }
+
+  &__link {
+    font-size: 15px;
+    font-weight: 600;
+    color: $color-primary-200;
+  }
+}

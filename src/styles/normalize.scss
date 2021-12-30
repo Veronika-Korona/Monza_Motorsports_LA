@@ -1,0 +1,56 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  color: $color-primary-200;
+  background-color: $color-body;
+}
+
+.font-poppins {
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  color: $color-secondary-200;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 75px;
+  color: $color-secondary-100;
+}
+
+h4 {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 34px;
+}
+
+h5 {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 23px;
+  color: $color-primary-100;
+}
+
+.mb-small {
+  margin-bottom: 72px;
+}
+
+.mb-middle {
+  margin-bottom: 80px;
+}
+
+.mb-large {
+  margin-bottom: 120px;
+}
+
+.mb-header {
+  margin-bottom: 136px;
+}

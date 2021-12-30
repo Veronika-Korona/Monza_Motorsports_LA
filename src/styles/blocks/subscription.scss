@@ -1,0 +1,40 @@
+.subscription {
+  max-height: 180px;
+
+  &__body {
+    margin-right: 95px;
+
+    &--title {
+      padding: 20px 0;
+    }
+
+    &--text {
+      font-size: 15px;
+      line-height: 20px;
+      margin-bottom: 46px;
+      max-width: 429px;
+    }
+  }
+
+  &__form {
+    margin: 44px 0;
+
+    &--email {
+      width: 505px;
+      height: 54px;
+      font-size: 15px;
+      padding: 15px 16px;
+      border: 1px solid $color-secondary-300;
+      border-radius: 15px;
+      margin-right: 20px;
+    }
+
+    &--btn {
+      font-size: 15px;
+      background-color: $color-primary-200;
+      width: 190px;
+      height: 54px;
+      border-radius: 15px;
+    }
+  }
+}

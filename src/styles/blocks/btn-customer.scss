@@ -1,0 +1,11 @@
+.btn-customer {
+  width: 296px;
+  height: 56px;
+  border: 2px solid $color-primary-200;
+  border-radius: 15px;
+
+  &:active {
+    background-color: $color-primary-100;
+    color: $color-primary-200;
+  }
+}
